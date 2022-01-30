@@ -1,0 +1,22 @@
+/*common css start*/ 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+    color: red;
+}
+/* // common css end*/
+.container{
+    width:1170px;
+    margin:0 auto;
+} 
